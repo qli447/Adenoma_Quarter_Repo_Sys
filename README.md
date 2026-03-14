@@ -1,4 +1,4 @@
-# 🧾 Gopath Quarterly Adenoma Report Generator
+# 🧾 Quarterly Adenoma Report Generator
 
 ## 📌 Description
 
@@ -37,10 +37,5 @@ This project provides a simple automated system for generating **quarterly adeno
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 
----
 
-## 📧 Contact
-
-**Qinfei Li**  
-qli@gopathdx.com
 
